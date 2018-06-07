@@ -9,6 +9,13 @@
 	],
 "creatorBuild": "26680",
 "files": {
+	"\/-OL": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/-OL",
+		"oF": 0
+		},
 	"\/.gitignore": {
 		"cB": 0,
 		"ft": 8192,
@@ -50,6 +57,17 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/images\/breaching_whale.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/polar_bear.jpg": {
+		"ft": 16384,
+		"iS": 0,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/polar_bear.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -2071,6 +2089,7 @@
 	"languageDefaultsUserDefined": [
 		],
 	"overrideExternalServerCSS": 0,
+	"previewPathAddition": "",
 	"skippedFoldersString": "log, _logs, logs, _cache, cache, .idea, \/storage\/framework\/sessions, node_modules",
 	"sourceFolderName": "source",
 	"susyVersion": 3,
@@ -2241,7 +2260,8 @@
 			"flagValue": 80
 			}
 		},
-	"uglifyReservedNamesString": "$"
+	"uglifyReservedNamesString": "$",
+	"websiteRelativeRoot": ""
 	},
 "settingsFileVersion": "3"
 }
